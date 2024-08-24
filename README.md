@@ -19,7 +19,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/simple-calculator-c.git
+git clone https://github.com/shacin2007/simple-calculator-c.git
 cd simple-calculator-c
 Compile the Code: To compile the code, use a C compiler like gcc. Run the following command in your terminal:
 
